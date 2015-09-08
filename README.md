@@ -3,5 +3,5 @@
 Display Fibonaci series given user input.
 
 # Deployent
-`/.fibonacci`
+`./fibonacci`
 - Enter an int value.
